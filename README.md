@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritam Majumder</h1>
 <h3 align="center">A passionate full stack developer and DSA problem solver</h3>
+ <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="">
+
 
 - 🌱 I’m currently learning **Next Js**
 
