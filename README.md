@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://ritammajumder.vercel.app/](https://ritammajumder.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ritammajumder.vercel.app/](https://ritammajumder.tech/)
 
-- 📝 I regularly write articles on [https://ritammajumder.vercel.app/](https://ritammajumder.vercel.app/)
+- 📝 I regularly write articles on [https://ritammajumder.vercel.app/](https://ritammajumder.tech/)
 
 - 💬 Ask me about **React Js , Node Js , Mongo DB , Express Js**
 
